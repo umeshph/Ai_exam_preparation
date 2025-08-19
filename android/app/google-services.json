@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968928326456",
+    "project_id": "agadi-project",
+    "storage_bucket": "agadi-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968928326456:android:a85600a1ba4e0155e687cd",
+        "android_client_info": {
+          "package_name": "com.example.ai_exam_prep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADeg_G3zcoAbrAtQsduo4Aa4fpfHEUeTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
